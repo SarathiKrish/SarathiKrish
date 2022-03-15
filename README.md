@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4kcinemas
 - 👀 I’m interested in Editing
-- 🌱 I’m currently learning ECE
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Auto Filter Bot
 - 📫 How to reach me [@sarathi_admin](https://t.me/sarathi_admin)
 
