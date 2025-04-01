@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarathi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Video+Editor+%26+Content+Creator;Aspiring+IT+Professional;Tech+%26+Digital+Marketing+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Video+Editor+%26+Content+Creator;Aspiring+IT+Professional" />
 </p>
 
 ### 🚀 About Me:
