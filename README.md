@@ -18,5 +18,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
 </a>
 </p>
-
-<a href="https://github.com/SarathiKrish"><img alt="Sarathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarathiKrish&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
